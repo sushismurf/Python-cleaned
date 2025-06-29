@@ -1,0 +1,16 @@
+Cagatay,Balik,123456,1955
+Ayse,Balik,123456,1955
+Baha,Kartal,987654,1972
+Fevziye,Kucuk,546321,1990
+Munire,Kartal,236547,1989
+Batur,Dolunay,456321,1990
+Yener,Akel,417890,2001
+Arier,Agca,123547,1995
+Yoruk,Saka,451267,1975
+Namik,Baser,167984,1989
+Caglar,Soysal,326598,2000
+Hayir,Ceylan,745698,1965
+Beyhan,Tufekci,197456,1960
+Tosunbey,Yuksel,632547,1987
+Veysel,Balik,246974,1957
+Gul,Balik,210478,1949

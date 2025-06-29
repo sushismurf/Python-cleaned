@@ -1,0 +1,11 @@
+"""
+question:
+
+Given two strings, a and b, return the result of putting them together in the order abba, 
+e.g. "Hi" and "Bye" returns "HiByeByeHi".
+
+my solution:
+"""
+
+def make_abba(a, b):
+  return a + 2*b + a
