@@ -14,7 +14,7 @@ Then, the output of the program should be:
 
 Helloworld
 
-@author: sushismurf
+@author: doga
 """
 
 a = input("say somethin': ")

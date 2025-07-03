@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 18 19:02:31 2023.
 
-@author: billypatty
+@author: doga
 
 trying to write bisection search myself.
 """

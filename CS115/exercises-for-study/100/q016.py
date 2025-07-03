@@ -9,7 +9,7 @@ Suppose the following input is supplied to the program:
 Then, the output should be:
 1,3,5,7,9
 
-@author: billypatty
+@author: doga
 """
 
 def seq():

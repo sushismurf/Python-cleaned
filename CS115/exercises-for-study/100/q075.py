@@ -4,7 +4,7 @@ Created on Thu Sep 12 11:07:31 2024.
 
 q: Use random.random() to generate a random float in [0,1].
 
-@author: sushismurf
+@author: doga
 """
 
 import random

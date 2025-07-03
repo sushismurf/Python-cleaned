@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 09:56:05 2023.
 
-@author: billypatty
+@author: doga
 
 Rock-Paper-Scissors game against computer.
 """

@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 30 23:40:06 2023.
 
-@author: billypatty
+@author: doga
 
 Take a list of numbers and make a new list that has only the even elements.
 """

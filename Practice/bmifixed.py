@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 28 16:13:10 2023.
 
-@author: billypatty
+@author: doga
 """
 
 mass = float(input("enter your weight (in kg): "))

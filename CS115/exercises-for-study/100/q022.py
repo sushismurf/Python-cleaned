@@ -20,7 +20,7 @@ choosing:1
 or:2
 to:1
 
-@author: sushismurf
+@author: doga
 """
 
 n = {}

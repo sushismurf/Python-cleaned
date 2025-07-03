@@ -5,7 +5,7 @@ Created on Thu Sep 12 11:33:03 2024.
 q: Please write a program to randomly generate a list with 5 numbers, which
 are divisible by 5 and 7 , between 1 and 1000 inclusive.
 
-@author: sushismurf
+@author: doga
 """
 
 import random

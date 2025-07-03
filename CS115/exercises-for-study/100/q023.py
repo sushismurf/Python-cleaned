@@ -4,7 +4,7 @@ Created on Mon Sep  2 16:54:30 2024.
 
 q: Write a method which can calculate square value of number
 
-@author: sushismurf
+@author: doga
 """
 
 while True:

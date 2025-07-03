@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 09:27:04 2023.
 
-@author: billypatty
+@author: doga
 """
 
 x = input("input an integer: ")

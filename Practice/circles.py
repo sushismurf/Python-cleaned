@@ -2,7 +2,7 @@
 """
 Created on Thu Jun  5 11:35:23 2025
 
-@author: sushismurf
+@author: doga
 """
 
 from sympy import Eq, symbols, solve

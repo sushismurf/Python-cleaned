@@ -5,7 +5,7 @@ Created on Wed Sep 11 21:21:17 2024.
 q: Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by
 console (n>0).
 
-@author: sushismurf
+@author: doga
 """
 
 while True:

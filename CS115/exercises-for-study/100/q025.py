@@ -5,7 +5,7 @@ Created on Mon Sep  2 18:00:02 2024.
 q: Define a class, which have a class parameter and have a same instance
 parameter.
 
-@author: sushismurf
+@author: doga
 """
 
 class idk(object):

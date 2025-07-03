@@ -11,7 +11,7 @@ Example:
 Then the output should be:
 1010
 
-@author: billypatty
+@author: doga
 """
 
 def seq():

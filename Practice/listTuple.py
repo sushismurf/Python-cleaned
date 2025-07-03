@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 25 21:20:53 2023.
 
-@author: billypatty
+@author: doga
 
 Write an expression that evaluates to the mean of
 a tuple of numbers. Use the function sum.

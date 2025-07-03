@@ -10,7 +10,7 @@ without,hello,bag,world
 Then, the output should be:
 bag,hello,without,world
 
-@author: billypatty
+@author: doga
 """
 
 def seq():

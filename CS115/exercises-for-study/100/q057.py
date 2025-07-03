@@ -4,7 +4,7 @@ Created on Wed Sep 11 13:25:46 2024.
 
 q: Define a custom exception class which takes a string message as attribute.
 
-@author: sushismurf
+@author: doga
 """
 
 class error(Exception):

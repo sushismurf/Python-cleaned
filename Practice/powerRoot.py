@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 19:21:51 2023.
 
-@author: billypatty
+@author: doga
 
 Write a program that asks the user to enter an
 integer and prints two integers, root and pwr, such that 1 < pwr < 6

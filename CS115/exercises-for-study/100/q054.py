@@ -7,7 +7,7 @@ init function which takes a length as argument. Both classes have a area
 function which can print the area of the shape where Shape's area is 0
 by default.
 
-@author: sushismurf
+@author: doga
 """
 
 class shape(object):

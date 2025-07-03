@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  6 08:33:56 2023.
 
-@author: billypatty
+@author: doga
 
  Implement a function that meets the specification
  def get_min(d):

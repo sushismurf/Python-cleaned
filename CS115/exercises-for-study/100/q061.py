@@ -4,7 +4,7 @@ Created on Wed Sep 11 17:39:52 2024.
 
 q: Print a unicode string "hello world".
 
-@author: sushismurf
+@author: doga
 """
 
 # i honestly have no idea what this question wants. i just found the unicode

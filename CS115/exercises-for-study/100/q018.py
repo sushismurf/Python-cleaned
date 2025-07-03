@@ -20,7 +20,7 @@ ABd1234@1,a F1#,2w3E*,2We3345
 Then, the output of the program should be:
 ABd1234@1
 
-@author: billypatty
+@author: doga
 """
 
 def passCheck():

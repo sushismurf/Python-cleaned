@@ -5,7 +5,7 @@ Created on Wed Sep 11 13:00:33 2024.
 q: Define a class named Rectangle which can be constructed by a length and
 width. The Rectangle class has a method which can compute the area.
 
-@author: sushismurf
+@author: doga
 """
 
 class rectangle(object):

@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 10:27:39 2023.
 
-@author: billypatty
+@author: doga
 
 Generate a random number between 1 and 9 (including 1 and 9).
 Ask the user to guess the number, then tell them whether they guessed too low,

@@ -11,7 +11,7 @@ Then, the output should be:
 HELLO WORLD
 PRACTICE MAKES PERFECT
 
-@author: billypatty
+@author: doga
 """
 
 def seq():

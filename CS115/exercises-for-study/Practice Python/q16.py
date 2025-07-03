@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 14:00:48 2023.
 
-@author: billypatty
+@author: doga
 
 Write a password generator. Keep in mind that strong passwords have a mix of
 lowercase letters, uppercase letters, numbers, and symbols. The passwords

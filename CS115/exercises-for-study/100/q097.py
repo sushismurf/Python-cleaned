@@ -14,7 +14,7 @@ Then, the output of the program should be:
 
 ris etov ot esir
 
-@author: sushismurf
+@author: doga
 """
 
 a = input("say somethin': ")

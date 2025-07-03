@@ -17,7 +17,7 @@ D 100
 Then, the output should be:
 500
 
-@author: billypatty
+@author: doga
 """
 
 balance = 0

@@ -10,7 +10,7 @@ Then, the output should be:
 ['34', '67', '55', '33', '12', '98']
 ('34', '67', '55', '33', '12', '98')
 
-@author: billypatty
+@author: doga
 """
 
 a = input("give a number (-1 to stop): ")

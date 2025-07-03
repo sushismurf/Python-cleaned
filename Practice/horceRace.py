@@ -4,7 +4,7 @@ Created on Fri Dec  8 19:36:01 2023.
 
 A horce racing game.
 
-@author: billypatty
+@author: doga
 """
 import random
 

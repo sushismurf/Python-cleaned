@@ -14,7 +14,7 @@ Then, the output of the program should be:
 
 0,2,4,6,8,10
 
-@author: sushismurf
+@author: doga
 """
 
 n = input("give a non-negative integer: ")

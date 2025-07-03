@@ -9,7 +9,7 @@ and f(0)=1
 
 with a given n input by console (n>0).
 
-@author: sushismurf
+@author: doga
 """
 
 # in the original answer, it says that if the input is 5, the output should be

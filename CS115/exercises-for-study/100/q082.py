@@ -5,7 +5,7 @@ Created on Thu Sep 12 11:38:22 2024.
 q: Please write a program to compress and decompress the string
 "hello world!hello world!hello world!hello world!".
 
-@author: sushismurf
+@author: doga
 """
 
 import zlib

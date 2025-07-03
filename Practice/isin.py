@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 18 19:15:29 2023.
 
-@author: billypatty
+@author: doga
 
 Write a function is_in that accepts two strings as
 arguments and returns True if either string occurs anywhere in the

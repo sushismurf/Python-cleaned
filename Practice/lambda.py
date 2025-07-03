@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 25 20:20:42 2023.
 
-@author: billypatty
+@author: doga
 
 Write a lambda expression that has two numeric
 parameters. If the second argument equals zero, it should return

@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 30 22:47:00 2023.
 
-@author: billypatty
+@author: doga
 
 Create a program that asks the user for a number and then prints out a list of
 all the divisors of that number.

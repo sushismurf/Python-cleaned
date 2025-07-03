@@ -12,7 +12,7 @@ f(n)=f(n-1)+f(n-2) if n>1
 Please write a program using list comprehension to print the Fibonacci
 Sequence in comma separated form with a given n input by console.
 
-@author: sushismurf
+@author: doga
 """
 
 def fib(a):

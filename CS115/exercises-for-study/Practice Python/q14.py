@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 11:57:53 2023.
 
-@author: billypatty
+@author: doga
 
 Take a list and return a list containing all the elements but their duplicates.
 """

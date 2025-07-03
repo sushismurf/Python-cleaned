@@ -5,7 +5,7 @@ Created on Thu Sep 12 11:25:42 2024.
 q: Please write a program to generate a list with 5 random numbers between
 100 and 200 inclusive.
 
-@author: sushismurf
+@author: doga
 """
 
 import random

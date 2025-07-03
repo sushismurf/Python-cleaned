@@ -9,7 +9,7 @@ C is 50. H is 30.
 D is the variable whose values should be input to your program in a
 comma-separated sequence.
 
-@author: billypatty
+@author: doga
 """
 
 from math import sqrt

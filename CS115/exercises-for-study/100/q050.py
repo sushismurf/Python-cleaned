@@ -5,7 +5,7 @@ Created on Wed Sep 11 12:42:33 2024.
 q: Define a class named American which has a static method called
 printNationality.
 
-@author: sushismurf
+@author: doga
 """
 
 class american(object):

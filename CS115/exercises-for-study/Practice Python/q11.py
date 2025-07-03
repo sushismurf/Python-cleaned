@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 10:43:24 2023.
 
-@author: billypatty
+@author: doga
 
 Ask the user for a number and determine whether the number is prime or not.
 """

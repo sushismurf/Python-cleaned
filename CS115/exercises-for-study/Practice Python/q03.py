@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 30 22:22:31 2023.
 
-@author: billypatty
+@author: doga
 
 Take a list and print out all the elements of the list that are less than 5.
 """

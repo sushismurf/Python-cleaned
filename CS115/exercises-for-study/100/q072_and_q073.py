@@ -6,7 +6,7 @@ q: Please write a binary search function which searches an item in a sorted
 list. The function should return the index of element to be searched in the
 list.
 
-@author: sushismurf
+@author: doga
 """
 
 # only works for sorted lists. not sure why or how anyone would use this if

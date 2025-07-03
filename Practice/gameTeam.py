@@ -1,7 +1,7 @@
 """
 Created on Thu Oct 12 00:23:51 2023.
 
-@author: billypatty
+@author: doga
 
 Write a Python script, Lab01_Q2.py to request the name of a basketball
 team, the number of games won, and the number of games lost as input,

@@ -5,7 +5,7 @@ Created on Mon Sep  2 19:40:35 2024.
 q: Define a function that can receive two integral numbers in string form and
 compute their sum and then print it in console.
 
-@author: sushismurf
+@author: doga
 """
 
 def strSum(a, b):

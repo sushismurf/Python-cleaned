@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 09:47:02 2023.
 
-@author: billypatty
+@author: doga
 
 Write code that asks the user to enter their
 birthday in the form mm/dd/yyyy, and then prints a string of the

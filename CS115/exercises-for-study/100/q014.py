@@ -10,7 +10,7 @@ Then, the output should be:
 UPPER CASE 1
 LOWER CASE 9
 
-@author: billypatty
+@author: doga
 """
 
 def upLow():

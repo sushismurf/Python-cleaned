@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 08:41:27 2023.
 
-@author: billypatty
+@author: doga
 
 Write a program that examines three variables (x, y, and z) and prints the
 largest odd number among them. If none of them are odd, it should print the

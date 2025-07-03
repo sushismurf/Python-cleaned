@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 11:21:23 2023.
 
-@author: billypatty
+@author: doga
 
 Ask the user how many Fibonnaci numbers to generate and do it.
 """

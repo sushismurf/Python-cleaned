@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 17 12:00:14 2023.
 
-@author: billypatty
+@author: doga
 """
 
 x = int(input("please input a positive integer: "))

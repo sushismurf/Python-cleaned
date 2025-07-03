@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 11:10:48 2023.
 
-@author: billypatty
+@author: doga
 """
 
 class fren(object):

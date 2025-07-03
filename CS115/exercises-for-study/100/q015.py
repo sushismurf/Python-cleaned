@@ -9,7 +9,7 @@ Suppose the following input is supplied to the program:
 Then, the output should be:
 11106
 
-@author: billypatty
+@author: doga
 """
 
 while True:

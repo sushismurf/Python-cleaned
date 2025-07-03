@@ -15,7 +15,7 @@ Then, the output of the program should be:
 
 0,35,70
 
-@author: sushismurf
+@author: doga
 """
 
 n = input("give an integer: ")

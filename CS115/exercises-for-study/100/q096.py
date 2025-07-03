@@ -20,7 +20,7 @@ d,1
 g,1
 f,1
 
-@author: sushismurf
+@author: doga
 """
 
 a = input("say somethin': ")

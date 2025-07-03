@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 25 12:52:32 2023.
 
-@author: billypatty
+@author: doga
 
  Write a function that meets the specification
  def shopping_days(year):

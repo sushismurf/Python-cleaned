@@ -7,7 +7,7 @@ q: Write a program, which will find all such numbers between 1000 and
 The numbers obtained should be printed in a comma-separated sequence on a
 single line.
 
-@author: billypatty
+@author: doga
 """
 
 outList = []

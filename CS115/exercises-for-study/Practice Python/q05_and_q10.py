@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 30 22:56:00 2023.
 
-@author: billypatty
+@author: doga
 
 Take two lists and write a program that returns a list that contains only
 the elements that are common between them. (no duplicates)

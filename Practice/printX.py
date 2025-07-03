@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 11:33:49 2023.
 
-@author: billypatty
+@author: doga
 
 Replace the comment in the following code with a
 while loop.

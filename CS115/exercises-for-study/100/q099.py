@@ -4,7 +4,7 @@ Created on Thu Sep 12 13:23:01 2024.
 
 q: Please write a program which prints all permutations of [1,2,3].
 
-@author: sushismurf
+@author: doga
 """
 
 import random

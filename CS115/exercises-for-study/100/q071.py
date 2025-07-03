@@ -14,7 +14,7 @@ Then, the output of the program should be:
 
 38
 
-@author: sushismurf
+@author: doga
 """
 
 a = input("give a mathematical expression: ")

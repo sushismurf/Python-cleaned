@@ -10,7 +10,7 @@ Then, the output should be:
 LETTERS 10
 DIGITS 3
 
-@author: billypatty
+@author: doga
 """
 
 def whatThis():

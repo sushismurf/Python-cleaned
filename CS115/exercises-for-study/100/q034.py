@@ -5,7 +5,7 @@ Created on Sun Sep  8 21:53:05 2024.
 q: Define a function which can print a dictionary where the keys are numbers
 between 1 and 20 (both included) and the values are square of keys.
 
-@author: sushismurf
+@author: doga
 """
 
 # literally the same question as the last one. i'll use a loop this time

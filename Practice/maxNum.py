@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 11:43:32 2023.
 
-@author: billypatty
+@author: doga
 
 Write a program that asks the user to input 10
 integers, and then prints the largest odd number that was entered. If

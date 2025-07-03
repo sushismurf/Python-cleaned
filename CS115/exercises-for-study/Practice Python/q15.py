@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 31 13:45:12 2023.
 
-@author: billypatty
+@author: doga
 
 Using functions, ask the user for a long string containing multiple words.
 Print back the same string, except with the words in backwards order.

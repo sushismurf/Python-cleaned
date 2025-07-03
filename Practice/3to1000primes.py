@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 15 16:13:02 2023.
 
-@author: billypatty
+@author: doga
 
 Write a program that prints the sum of the prime
 numbers greater than 2 and less than 1000. Hint: you probably want

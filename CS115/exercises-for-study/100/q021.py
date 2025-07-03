@@ -24,7 +24,7 @@ RIGHT 2
 Then, the output of the program should be:
 2
 
-@author: billypatty
+@author: doga
 """
 
 from math import sqrt
