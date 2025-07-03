@@ -1,0 +1,16 @@
+Biscuits Ankara
+hayley;5;3.0;12
+albeni;13;2.5;12
+twix;13;3.75;15
+damak;13;6.75;10
+burcak;11;6.75;15
+nutella;23;21.75;20
+biskrem;15;4.0;21
+metro;7;2.75;10
+toblerone;7;16.75;15
+benimo;5;4.0;3
+gofret;4;3.0;5
+kraker;13;5.25;10
+sokokrem;12;2.5;10
+kakaolu;33;21.75;15
+simit;5;5.25;10
