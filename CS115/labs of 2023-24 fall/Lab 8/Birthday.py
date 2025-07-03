@@ -14,12 +14,18 @@ class Birthday:
         
     def getName(self):
         return self.__name
-    
+         
     def getMonth(self):
         return self.__bMonth
     
     def getDay(self):
         return self.__bDay
     
+    def __eq__(self, other):
+        return self.__name == other.__name
+
+    def __lt__(self,other):
+        return self.__name < other.__name
+        
     def __repr__( self ):
-        return self.__name + '\n' + str(self.__day) + '/' + str(self.__difficulty)
+        return self.__name + ': ' + str(self.__bDay) + '/' + str(self.__bMonth)
